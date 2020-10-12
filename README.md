@@ -1,3 +1,8 @@
-Simple study with HTML canvas + JS
+Simple study with HTML canvas + JS [check repo](https://github.com/chroda/study-canvas)
 
-- Following tutorials from https://github.com/christopher4lis
+- Following tutorials from [@christopher4lis](https://github.com/christopher4lis)
+
+# STUDY IN PROGRESS
+
+- [blocks](./blocks)
+- [circles](./circles)
